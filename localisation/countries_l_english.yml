@@ -1,0 +1,16 @@
+l_english:
+
+CHG_neutrality:0 "Independent Hives of Ditrysium"
+CHG_neutrality_DEF:0 "Independent Hives of Ditrysium"
+CHG_fascism:0 "Independent Hives of Ditrysium"
+CHG_fascism_DEF:0 "Independent Hives of D"
+CHG_communism:0 "Union of Ditrysium"
+CHG_communism_DEF:0 "The Union of Ditrysium"
+CHG_harmony:0 "Republic of Ditrysium"
+CHG_democratic:0 "Republic of Ditrysium"
+CHG_democratic_DEF:0 "The Republic of Ditrysium"
+CHG_fascism_ADJ:0 "Ditrysian"
+CHG_harmony_ADJ:0 "Ditrysian"
+CHG_democratic_ADJ:0 "Ditrysian"
+CHG_neutrality_ADJ:0 "Ditrysian"
+CHG_communism_ADJ:0 "Ditrysian"
