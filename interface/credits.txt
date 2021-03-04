@@ -1,0 +1,254 @@
+﻿#Equestria At War for Hearts of Iron IV
+
+#LEAD DEVELOPERS
+Scroup
+Cyrus
+Featherus
+Yard1
+Jaspy
+
+#CONTRIBUTORS
+Adagio
+Algol
+Angriest Bird
+AppleAle
+AquaMuro
+ArcaneTesla
+Arcus
+Arcy
+Archivator-RUS
+Arvidus
+Augenis
+Axidant
+Baron
+Best Wizard
+Bipen
+Brandon
+BunnyShrubby
+Carvor
+catnapper
+Cazzym
+Cherrypone
+cijik
+Cinder Script
+Cody MacArthur
+Cofido
+Computational Pragmatist
+Couatl
+CowsRTasty
+Cynewulf
+Danior5
+Dr. Gilderoy
+Dr. Njitram
+Didicody
+dingosupastar
+DukeVonKessel
+Dzhasa
+Echo
+EmpressBridle
+Feitanakin
+Feveros
+Fiaura
+Fin
+Finland
+Flake
+Flying Dutchpony
+Franz Libkind
+gdvp111
+Gara-The-Author
+Gearheart
+gelter
+Goldenwing
+GonzaloIrkatan
+Gorkamorka
+GreatPretender
+Guidrion
+Hellstorm12
+Honcho
+Husarz aka Luna
+Hysterical Fox
+IvanVodkin2012
+Ignacio
+Илларион
+Imit4tor
+Indyclone77
+jnzsblzs
+JustAnotherPonyGuy
+Kajko
+Kaltrop
+Kingston
+King_Wilson
+Knifepony
+Knoster
+Kuche
+Leo the Pone
+Lovenought
+lukeskylicker
+Lumi
+Lunar_Explorator aka Ludenhorse
+Lunu
+Mageytash
+MarkipOOn
+Mass
+Mayfly
+Memerskai
+Mindhawk
+Miltonian
+MiszczTheMaste
+Moonatik
+MonAx
+Murp
+MustaphaTR
+Myxine
+Nagerleral
+Nathaneal
+NavyMongoose
+NCBlizzard
+Neitherman83
+Nico
+Niezow
+NuclearWaffles
+Nyatta
+Okami Wolf
+Orion
+Orwell
+Peko
+Pipsqueak
+Printik
+Professional Horse
+Psody
+RainyDay
+Raminy
+Raptor_Jesus
+Redheart
+Red Spark
+Rich May
+Riley Vinchers
+Rokim21
+Romeo Man
+Sadsaltan
+Sbadkins4 'The Captain'
+SerPounce
+Sesek1
+Shade
+Shalax
+Shepard
+Sinister
+Sparkplug
+StDeadRa
+Stemis
+Sunrise
+Sweet Chrysalis
+StanislavivBall
+TechnocommieSparkle();
+Telly
+Tempest
+TerrihbahSpehlar
+ThatZealousOne
+The 24th Pegasus
+TheFuego
+TheGreatPretender
+The_Laundry
+Thor
+Thymos
+TimesNewLogan
+Twotail813
+Tzyca
+Udy
+Unknown aka Anja
+Upevig
+ValenceWubs
+Valmoric
+Vanilla Swirl
+Vasily
+Vexili
+VoidTemplar
+vren55
+Wells
+Wes
+Wondermane
+Xilg
+yastorm
+ziad5241
+Zimbabwe Salt Co.
+
+#TRANSLATORS
+Agatha
+Big Bruddah
+Cwop
+Damiyan
+Freudigsonne
+Gereval
+GrandPri
+idenr
+LiteFire
+Mr. PumzA
+Murena
+RoSoEro
+Rugar
+Vizor
+Sciv888
+Scorg
+Sosninsky
+The_Suspect
+
+#MAIN MENU ART BY:
+Shamanguli
+
+#ADDITIONAL ART BY:
+Angelo Person
+Ardail
+Aselita Selter
+Crowseph-Crowstar
+Devinian
+El_Mutanto
+Hetman80
+Jowybean
+Jung yeoll Kim
+Kenneth Camaro
+LuxLoser
+Marcus Oriente
+Melcom Lek
+Plainoasis
+PrincessSaros
+Robin Tran
+Stephen Najarian
+Sycreon
+Tito
+Tsurime
+Lamp
+RyansPlace
+
+#MUSIC BY:
+Aida Vedischeva
+Armesto
+Artem Yegorov
+Carbon Maestro
+Dashite Song
+David Larsen
+Deceased Superior Technician
+DrDissonance1
+LoreRD
+Neighsayer
+Not a Clever Pony
+Radiarc
+Zykrath
+
+#SPECIAL THANKS TO:
+Lauren Faust
+Hasbro
+DHX Media
+Paradox Interactive
+Paradox Development Studio
+RainyDay
+Greatexperiment
+Eight Years' War of Resistance
+Kaiserreich Team
+ThePinkPanzer
+Cherios
+Thinking Waffle
+Xelacient
+starwarsfan541
+HoI 4 Modding Coop
+All artists and creators whose work has been used
+Our wonderful community

@@ -1,0 +1,282 @@
+﻿##### STG NAME LISTS #####
+### REGULAR DESTROYER NAMES###
+STG_DD_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_DESTROYERS
+
+	for_countries = { STG }
+
+	type = ship
+	ship_types = { ship_hull_light destroyer }			
+
+	prefix = "PMS "
+	fallback_name = "Esminets %d"					
+
+	unique = {
+		"Maredarskiy"
+		"Nico"
+		"Artyom"
+		"Orfey"
+		"Yemelyan the Black"
+		"Ursa"
+		"Union"
+		"Malen'kaya Loshad"		
+		"Gnevny" 			
+		"Gordy" 
+		"Grozny" 
+		"Sokrushitelny" 
+		"Grozyashchiy" 
+		"Stremitelny" 
+		"Bodry" 
+		"Bystry" 
+		"Bezuprechny" 
+		"Bditelny" 
+		"Boykiy" 
+		"Gremyashchiy" 
+		"Steregushchiy" 
+		"Gromkiy" 		
+		"Besposhchadny" 	
+		"Rezvy" 
+		"Ryany" 
+		"Retivy" 
+		"Razyashchiy" 
+		"Rastoropny" 
+		"Reshitelny" 
+		"Retivy" 
+		"Revnostny" 
+		"Rekordny" 
+		"Stal'noy" 
+		"Rezkiy" 
+		"Raz'yaryonny" 
+		"Smyshlyonyy" 
+		"Silny" 
+		"Storozhevoy" 
+		"Serdityy" 
+		"Stoykiy" 
+		"Slavny" 
+		"Smely" 
+		"Soobrazitelny" 
+		"Sposobny" 
+		"Svirepy" 
+		"Skory" 
+		"Statny" 
+		"Strogiy" 
+		"Stroyny" 
+		"Sovershenny" 
+		"Svobodny" 
+		"Opytnyy" 
+		"Ognevoy" 
+		"Osmotritelnyy" 
+		"Vnushitelnyy" 
+		"Stalnoy" 
+		"Otlichny" 
+		"Vynoslivy" 
+		"Vlastny" 
+		"Ozornoy" 
+		"Obraztsovy" 
+		"Otvazhny" 
+		"Odaryonny" 
+		"Ognenny" 
+		"Ozhestochonny" 
+		"Ostry" 
+		"Oslepitelny" 
+		"Ostorozhny" 
+		"Otchotlivy" 
+		"Organizovanny" 
+		"Otborny" 
+		"Otrazhayushchiy" 
+		"Otmenny" 
+		"Otchayanny" 
+		"Obshchitelny"  
+		"Smetlivy" 
+		"Surovy" 
+		"Strashny" 
+		"Zharkiy" 
+		"Zhivoy" 
+		"Zhguchiy" 
+		"Zhestokiy" 
+		"Zhutkiy" 
+		"Vedushchiy" 
+		"Vnezapnyy"
+		"Derzkiy" 
+		"Doblestny" 
+		"Dostoyny" 
+		"Druzhny" 
+		"Dyeyatelny" 
+		"Letuchiy" 
+		"Likhoy" 
+		"Lyogkiy" 
+		"Lovkiy" 
+		"Prytkiy" 
+		"Pylkiy" 
+		"Prochny" 
+		"Provornyy" 
+	}
+}
+
+### LIGHT CRUISER / HEAVY CRUISER NAMES###
+STG_CL_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CL_CA
+
+	for_countries = { STG }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser heavy_cruiser }
+	
+	prefix = "PMS "
+	fallback_name = "Kreyser %d"
+
+	unique = {
+		"Comrade Altidiya"
+		"Comrade Vasily"
+		"Comrade Sinister"
+		"Krasnaya Burya"
+		"Comrade Dark Wing"
+		"Comrade Lunin"
+		"Comrade Sladkaya"
+		"Serp"
+		"Komsomolets"
+		"Svetlana"
+		"Slava"
+		"Proletariy"
+		"Soyuzniy"
+		"Solidarnost'"
+		"Revolutsiya"
+		"Internationale"
+		"Pobeda"
+		"Victoria"
+		"Diana"			
+		"Pallada"
+		"Ekaterina"
+		"Mariya"
+		"Anna"
+		"Elisaveta"
+		"Katyusha"
+		"Pegas"
+		"Edinorog"		
+		"Zemnopony"
+		"Mysh'"
+		"Vitiaz"
+		"Voyevoda"
+		"Strelets"
+		"Partizan"
+		"Gromoboi"
+		"Latnik"
+		"Bronenosets"
+		"Molniya"		
+		"Uragan"
+		"Smerch"
+		"Grad"
+		"Vikhr'"
+		"Tornado"
+		"Grom"
+		"Tsyklon"
+		"Buran"
+		"Energia"
+		"Vostok"
+		"Voskhod"
+		"Zarya"
+		"Orlan"			
+		"Novik"
+		"Almaz"
+		"Zhemchug"
+		"Izumrud"
+		"Oryol"
+		"Borets"
+		"Bayan"
+		"Pervenetz"
+	}
+}
+
+### BATTLESHIP / BATTLECRUISER NAMES ###
+STG_BB_BC_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BB_BC
+
+	for_countries = { STG }
+
+	type = ship
+	ship_types = { ship_hull_heavy battleship battle_cruiser}
+	
+	prefix = "PMS "
+	fallback_name = "Lineynyy korabl' %d"		
+
+	unique = {
+		"Stalliongrad"
+		"Petershoof"
+		"Konzan"
+		"Stavropon"
+		"Zayatsk"
+		"Severokholm"
+		"Zlatotcvet"
+		"Krasivsk"
+		"Sovyenok"
+		"Krasnaya Zvezda"		
+		"Aurora"
+		"Molot Proletariya"
+		"Krasny Decabr'"
+		"Krushitel' Tsepei"
+		"Krasnyi Rassvet"
+	}
+}
+
+### AIRCRAFT CARRIER NAMES ###
+STG_CV_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CARRIERS
+
+	for_countries = { STG }
+
+	type = ship
+	ship_types = { ship_hull_carrier carrier }
+	
+	prefix = "PMS "
+	fallback_name = "Avianosets %d"	
+
+	unique = {
+		"Severyana"
+		"Caramel Marks"
+		"Steel Stallion"
+		"Fire Angel"
+	}
+}
+
+### SUBMARINES ###
+STG_SS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_SUBMARINES
+
+	for_countries = { STG }
+
+	type = ship
+	ship_types = { ship_hull_submarine submarine }
+	
+	prefix = "PMS "
+	fallback_name = "S—%d"
+	
+	unique = {
+		"Akula"
+		"Murena"
+		"Kal'mar"
+		"Delfin"
+		"Navaga"
+		"Nalim"
+		"Som"
+		"Shyka"
+		"Kasatka"
+		"Kolibri"
+		"Coltsk"
+		"Piran'ya"
+		"Skat"
+		"Rzhaka"
+	}
+}
+
+# ### THEME: STATES CITIES REGIONS RIVERS ###
+# STG_STATES = {
+	# name = NAME_THEME_PLACES
+
+	# for_countries = { STG }
+
+	# type = ship
+
+	# prefix = "PMS "
+	# unique = {
+	# }
+# }
