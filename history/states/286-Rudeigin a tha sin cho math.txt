@@ -6,8 +6,8 @@ state={
 	}
 	manpower=255271
 	history={
-		owner = GRF
-		add_core_of = GRF
+		owner = GBA
+		add_core_of = GBA
 		buildings = {
 			infrastructure = 1
 			industrial_complex = 1

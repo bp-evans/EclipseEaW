@@ -9,9 +9,9 @@ state={
 	}
 	manpower=10400
 	history={
-		owner = GFF
-		add_core_of = GFF
-		add_core_of = GRF
+		owner = GBA
+		add_core_of = GBA
+		add_core_of = GBA
 		buildings = {
 			infrastructure = 1
 		}

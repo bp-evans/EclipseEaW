@@ -6,8 +6,7 @@ state={
 	}
 	manpower=103890
 	history={
-		owner = EQS
-		add_core_of = EQS
+		owner = STG
 		add_core_of = STG
 		buildings = {
 			infrastructure = 1

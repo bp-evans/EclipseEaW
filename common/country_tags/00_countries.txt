@@ -1,6 +1,5 @@
 EQS = "countries/Equestria.txt"
 DRG = "countries/Dragon.txt"
-CHG = "countries/UnionOfDitrysium.txt"
 OLE = "countries/Olenia.txt"
 CHN = "countries/Changeling.txt"
 YAK = "countries/Yakistan.txt"
@@ -102,7 +101,8 @@ BAR = "countries/Barrd.txt"
 EWI = "countries/EventWindego.txt"
 LSC = "countries/LongswordCommunist.txt"
 LSM = "countries/LongswordMilitary.txt"
-#########################
-
+######################### Eclipse tags ####
+CHG = "countries/UnionOfDitrysium.txt"
+GBA = "countries/GriffonianBlackArmy.txt"
 
 

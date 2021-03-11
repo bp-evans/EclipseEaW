@@ -4,8 +4,8 @@ state={
 	name="STATE_277"
 
 	history={
-		owner = GFF
-		add_core_of = GFF
+		owner = GBA
+		add_core_of = GBA
 		add_claim_by = YAK
 		add_claim_by = JAK
 		add_core_of = GRF

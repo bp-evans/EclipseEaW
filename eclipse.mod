@@ -33,4 +33,4 @@ tags={
 	"Map"
 }
 supported_version="1.10.*"
-path="./mod/EclipseEaW"
+path="C:/Users/Astrid/Documents/Paradox Interactive/Hearts of Iron IV/mod/eclipse"

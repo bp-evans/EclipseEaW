@@ -6,9 +6,8 @@ state={
 	}
 	manpower=902800
 	history={
-		owner = GFF
-		add_core_of = GFF
-		add_core_of = GRF
+		owner = GBA
+		add_core_of = GBA
 		add_claim_by = YAK
 		add_claim_by = JAK
 		buildings = {

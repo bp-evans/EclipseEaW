@@ -34,4 +34,4 @@ tags={
 }
 
 supported_version="1.10.*"
-path="mod/EclipseEaW"
+path="mod/Eclipse"
