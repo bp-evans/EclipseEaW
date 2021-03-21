@@ -5,8 +5,8 @@ state={
 	state_category = wasteland
 
 	history={
-		owner = EQS
-		add_core_of = EQS
+		owner = SCS
+		add_core_of = SCS
 
 	}
 

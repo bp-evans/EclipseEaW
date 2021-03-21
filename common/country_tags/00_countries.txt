@@ -104,5 +104,5 @@ LSM = "countries/LongswordMilitary.txt"
 ######################### Eclipse tags ####
 CHG = "countries/UnionOfDitrysium.txt"
 GBA = "countries/GriffonianBlackArmy.txt"
-
-
+ACO = "countries/Acornage.txt"
+TRO = "countries/CountyOfTrotland.txt"

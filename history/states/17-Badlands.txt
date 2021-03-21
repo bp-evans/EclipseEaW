@@ -7,9 +7,8 @@ state={
 	}
 
 	history={
-		owner = DRG
-		add_core_of = DRG
-		add_core_of = EQS
+		owner = NMS
+		add_core_of = NMS
 
 	}
 
