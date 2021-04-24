@@ -611,3 +611,7 @@ NCR = {
 	color = rgb { 153 116 93 }
 	color_ui = rgb { 199 151 121 }
 }
+TRO = {
+	color = rgb { 170 0 9 }
+	color_ui = rgb { 170 0 9 }
+}
