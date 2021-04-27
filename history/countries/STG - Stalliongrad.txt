@@ -94,8 +94,9 @@ set_politics = {
 
 
 add_ideas = {
-	severe_famine
-	incomplete_industrialization
+	NSSR_curse_of_eternal_night_idea
+	NSSR_verge_of_famine_idea
+	NSSR_a_dark_tomorrow_idea
 }
 add_tech_bonus = {
 	name = armor_bonus

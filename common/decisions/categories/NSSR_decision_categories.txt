@@ -1,0 +1,8 @@
+NSSR_moral_obligation_decisions = {
+	allowed = {
+		original_tag = STG
+	}
+	priority = {
+		base = 110
+	}
+}
