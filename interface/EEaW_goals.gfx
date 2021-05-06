@@ -1,0 +1,27 @@
+spriteTypes = {
+
+	SpriteType = {
+		name = "GFX_results_of_the_five_year_plan"
+		texturefile = "gfx/interface/goals/EEaW/goal_results_of_the_five_year_plan.dds"
+	}
+	SpriteType = {
+		name = "GFX_farming_crystal"
+		texturefile = "gfx/interface/goals/EEaW/goal_farming_crystal.dds"
+	}
+	SpriteType = {
+		name = "GFX_liberator_of_manehattan"
+		texturefile = "gfx/interface/goals/EEaW/goal_liberator_of_manehattan.dds"
+	}
+	SpriteType = {
+		name = "GFX_mechanized_farming"
+		texturefile = "gfx/interface/goals/EEaW/goal_mechanized_farming.dds"
+	}
+	SpriteType = {
+		name = "GFX_red_guards"
+		texturefile = "gfx/interface/goals/EEaW/goal_red_guards.dds"
+	}
+	SpriteType = {
+		name = "GFX_savior_of_the_griffish_isles"
+		texturefile = "gfx/interface/goals/EEaW/goal_savior_of_the_griffish_isles.dds"
+	}
+}

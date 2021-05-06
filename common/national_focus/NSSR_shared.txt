@@ -1,6 +1,6 @@
 shared_focus = {
 	id = NSSR_results_of_the_five_year_plan
-	icon = GFX_focus_unknown
+	icon = GFX_results_of_the_five_year_plan
 
 	cost = 15
 	x = 3
@@ -104,7 +104,7 @@ shared_focus = {
 
 shared_focus = {
 	id = NSSR_crystal_farming_experiments
-	icon = GFX_focus_unknown
+	icon = GFX_farming_crystal
 
 	cost = 11
 	x = -1
@@ -155,7 +155,7 @@ shared_focus = {
 
 shared_focus = {
 	id = NSSR_mechanized_prosperity
-	icon = GFX_focus_unknown
+	icon = GFX_mechanized_farming
 
 	cost = 10
 	x = 1
@@ -218,7 +218,7 @@ shared_focus = {
 
 shared_focus = {
 	id = NSSR_we_are_the_red_army
-	icon = GFX_focus_unknown
+	icon = GFX_red_guards_shine
 
 	cost = 2
 	x = 2
@@ -267,7 +267,7 @@ shared_focus = {
 
 shared_focus = {
 	id = NSSR_the_liberator_of_manehattan
-	icon = GFX_focus_unknown
+	icon = GFX_liberator_of_manehattan
 
 	cost = 1
 	x = -1
@@ -329,7 +329,7 @@ shared_focus = {
 
 shared_focus = {
 	id = NSSR_the_savior_of_the_griffish_isles
-	icon = GFX_focus_unknown
+	icon = GFX_savior_of_the_griffish_isles
 
 	cost = 1
 	x = 1
