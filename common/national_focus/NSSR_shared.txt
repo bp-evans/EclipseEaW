@@ -75,7 +75,7 @@ shared_focus = {
 
 shared_focus = {
 	id = NSSR_unicorn_farmers
-	icon = GFX_focus_unknown
+	icon = GFX_unicorn_farmers
 
 	cost = 5
 	x = -1
@@ -124,7 +124,7 @@ shared_focus = {
 
 shared_focus = {
 	id = NSSR_agrarian_breakthrough
-	icon = GFX_focus_unknown
+	icon = GFX_agrarian_breakthrough
 
 	cost = 5
 	x = 1

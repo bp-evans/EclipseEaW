@@ -2,10 +2,10 @@ spriteTypes = {
 
 	SpriteType = {
 		name = "GFX_results_of_the_five_year_plan_shine"
-		texturefile = "gfx/interface/goals/EEaW/goal_results_of_the_five_year_plan.dds"
+		texturefile = "gfx/interface/goals/EEaW/STG/goal_results_of_the_five_year_plan.dds"
 		effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
-			animationmaskfile = "gfx/interface/goals/EEaW/goal_results_of_the_five_year_plan.dds"
+			animationmaskfile = "gfx/interface/goals/EEaW/STG/goal_results_of_the_five_year_plan.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = -90.0
 			animationlooping = no
@@ -18,7 +18,7 @@ spriteTypes = {
 		}
 
 		animation = {
-			animationmaskfile = "gfx/interface/goals/EEaW/goal_results_of_the_five_year_plan.dds"
+			animationmaskfile = "gfx/interface/goals/EEaW/STG/goal_results_of_the_five_year_plan.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = 90.0
 			animationlooping = no
@@ -34,10 +34,10 @@ spriteTypes = {
 
 	SpriteType = {
 		name = "GFX_farming_crystal_shine"
-		texturefile = "gfx/interface/goals/EEaW/goal_farming_crystal.dds"
+		texturefile = "gfx/interface/goals/EEaW/STG/goal_farming_crystal.dds"
 		effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
-			animationmaskfile = "gfx/interface/goals/EEaW/goal_farming_crystal.dds"
+			animationmaskfile = "gfx/interface/goals/EEaW/STG/goal_farming_crystal.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = -90.0
 			animationlooping = no
@@ -50,7 +50,7 @@ spriteTypes = {
 		}
 
 		animation = {
-			animationmaskfile = "gfx/interface/goals/EEaW/goal_farming_crystal.dds"
+			animationmaskfile = "gfx/interface/goals/EEaW/STG/goal_farming_crystal.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = 90.0
 			animationlooping = no
@@ -66,10 +66,10 @@ spriteTypes = {
 
 	SpriteType = {
 		name = "GFX_liberator_of_manehattan_shine"
-		texturefile = "gfx/interface/goals/EEaW/goal_liberator_of_manehattan.dds"
+		texturefile = "gfx/interface/goals/EEaW/STG/goal_liberator_of_manehattan.dds"
 		effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
-			animationmaskfile = "gfx/interface/goals/EEaW/goal_liberator_of_manehattan.dds"
+			animationmaskfile = "gfx/interface/goals/EEaW/STG/goal_liberator_of_manehattan.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = -90.0
 			animationlooping = no
@@ -82,7 +82,7 @@ spriteTypes = {
 		}
 
 		animation = {
-			animationmaskfile = "gfx/interface/goals/EEaW/goal_liberator_of_manehattan.dds"
+			animationmaskfile = "gfx/interface/goals/EEaW/STG/goal_liberator_of_manehattan.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = 90.0
 			animationlooping = no
@@ -98,10 +98,10 @@ spriteTypes = {
 
 	SpriteType = {
 		name = "GFX_mechanized_farming_shine"
-		texturefile = "gfx/interface/goals/EEaW/goal_mechanized_farming.dds"
+		texturefile = "gfx/interface/goals/EEaW/STG/goal_mechanized_farming.dds"
 		effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
-			animationmaskfile = "gfx/interface/goals/EEaW/goal_mechanized_farming.dds"
+			animationmaskfile = "gfx/interface/goals/EEaW/STG/goal_mechanized_farming.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = -90.0
 			animationlooping = no
@@ -114,7 +114,7 @@ spriteTypes = {
 		}
 
 		animation = {
-			animationmaskfile = "gfx/interface/goals/EEaW/goal_mechanized_farming.dds"
+			animationmaskfile = "gfx/interface/goals/EEaW/STG/goal_mechanized_farming.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = 90.0
 			animationlooping = no
@@ -130,10 +130,10 @@ spriteTypes = {
 
 	SpriteType = {
 		name = "GFX_red_guards_shine"
-		texturefile = "gfx/interface/goals/EEaW/goal_red_guards.dds"
+		texturefile = "gfx/interface/goals/EEaW/STG/goal_red_guards.dds"
 		effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
-			animationmaskfile = "gfx/interface/goals/EEaW/goal_red_guards.dds"
+			animationmaskfile = "gfx/interface/goals/EEaW/STG/goal_red_guards.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = -90.0
 			animationlooping = no
@@ -146,7 +146,7 @@ spriteTypes = {
 		}
 
 		animation = {
-			animationmaskfile = "gfx/interface/goals/EEaW/goal_red_guards.dds"
+			animationmaskfile = "gfx/interface/goals/EEaW/STG/goal_red_guards.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = 90.0
 			animationlooping = no
@@ -162,10 +162,10 @@ spriteTypes = {
 
 	SpriteType = {
 		name = "GFX_savior_of_the_griffish_isles_shine"
-		texturefile = "gfx/interface/goals/EEaW/goal_savior_of_the_griffish_isles.dds"
+		texturefile = "gfx/interface/goals/EEaW/STG/goal_savior_of_the_griffish_isles.dds"
 		effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
-			animationmaskfile = "gfx/interface/goals/EEaW/goal_savior_of_the_griffish_isles.dds"
+			animationmaskfile = "gfx/interface/goals/EEaW/STG/goal_savior_of_the_griffish_isles.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = -90.0
 			animationlooping = no
@@ -178,7 +178,71 @@ spriteTypes = {
 		}
 
 		animation = {
-			animationmaskfile = "gfx/interface/goals/EEaW/goal_savior_of_the_griffish_isles.dds"
+			animationmaskfile = "gfx/interface/goals/EEaW/STG/goal_savior_of_the_griffish_isles.dds"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = 90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 } 
+		}
+		legacy_lazy_load = no
+	}
+	
+	SpriteType = {
+		name = "GFX_agrarian_breakthrough"
+		texturefile = "gfx/interface/goals/EEaW/STG/goal_agrarian_breakthrough.dds"
+		effectFile = "gfx/FX/buttonstate.lua"
+		animation = {
+			animationmaskfile = "gfx/interface/goals/EEaW/STG/goal_agrarian_breakthrough.dds"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = -90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 2.0 y = 1.0 } 
+		}
+
+		animation = {
+			animationmaskfile = "gfx/interface/goals/EEaW/STG/goal_agrarian_breakthrough.dds"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = 90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 } 
+		}
+		legacy_lazy_load = no
+	}
+	
+	SpriteType = {
+		name = "GFX_unicorn_farmers"
+		texturefile = "gfx/interface/goals/EEaW/STG/goal_unicorn_farmers.dds"
+		effectFile = "gfx/FX/buttonstate.lua"
+		animation = {
+			animationmaskfile = "gfx/interface/goals/EEaW/STG/goal_unicorn_farmers.dds"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = -90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 2.0 y = 1.0 } 
+		}
+
+		animation = {
+			animationmaskfile = "gfx/interface/goals/EEaW/STG/goal_unicorn_farmers.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = 90.0
 			animationlooping = no
