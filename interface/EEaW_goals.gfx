@@ -30,8 +30,18 @@ spriteTypes = {
 		texturefile = "gfx/interface/goals/EEaW/STG/goal_agrarian_breakthrough.dds"
 	}
 	
-		SpriteType = {
+	SpriteType = {
 		name = "GFX_unicorn_farmers"
 		texturefile = "gfx/interface/goals/EEaW/STG/goal_unicorn_farmers.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_our_moral_obligation"
+		texturefile = "gfx/interface/goals/EEaW/STG/goal_our_moral_obligation.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_an_oath_to_the_people"
+		texturefile = "gfx/interface/goals/EEaW/STG/goal_an_oath_to_the_people.dds"
 	}
 }
