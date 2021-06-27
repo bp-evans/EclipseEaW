@@ -42,15 +42,27 @@ generic_DD_template = yes
 generic_CL_template = yes
 
 set_convoys = 20
+
 set_popularities = {
-	democratic = 2
-	fascism = 5
-	communism = 13
-	neutrality = 80
+	equalism = 0
+	communism = 0
+	syndicalism = 0
+	social_harmony = 0
+	democratic = 0
+	authoritarian_harmony = 0
+	libertarianism = 0
+	alt_right_cult = 0
+	fascism = 0
+	constitutional_monarchy = 0
+	neutrality = 0
+	despotism = 0
+	anarchism = 100
 }
+
+
 set_politics = {
 
-	ruling_party = neutrality
+	ruling_party = anarchism
 	last_election = "1000.10.10"
 	election_frequency = 36
 	elections_allowed = no
@@ -74,7 +86,7 @@ create_country_leader = {
 	expire = "1965.1.1"
 	desc = JUN_doctor_desc
 	picture = "Caballeron.tga"
-	ideology = despotism
+	ideology = anarchism
 	traits = {
 	}
 }

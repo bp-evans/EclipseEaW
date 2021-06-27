@@ -101,8 +101,8 @@
  #moderatism_desc:1 "why would you assign this sub-ideology?"# moved to replace folder
  #centrism:1 "Centrism"# Identical duplicate from hoi4
  #centrism_desc:1 "Centrist democracies avoid political extremes both on the left and right, promoting moderate and pragmatic reforms which seek to find the middle ground."# moved to replace folder
- #anarchism:0 "Anarchism"# Identical duplicate from hoi4
- #anarchism_desc:0 "Anarchism is the rejection of authority itself, promoting the division of society into self-managing and self-governing collectives instead of a singular, centralized state."
+ anarchism:0 "Anarchism" #identical duplicate from hoi4
+ anarchism_desc:0 "Anarchism is the rejection of authority itself, promoting the division of society into self-managing and self-governing collectives instead of a singular, centralized state."
  technocracy:0 "Technocracy"
  technocracy_desc:0 "Technocracy is a system of governance in which decision-makers are selected on the basis of their expertise, particularly with regard to scientific or technical knowledge. Although it contrasts with democracy, it does not necessarily imply eliminating elected representatives, but leaders are judged on their expertise rather than political affiliation. A technocratic government tries to use the scientific method to solve social problems and uses logical calculus to find the most rational solution to any given problem based on the information available."
  libertarianism:0 "Libertarian Capitalism"

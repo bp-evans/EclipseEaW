@@ -24,7 +24,7 @@ shared_focus = {
 
 shared_focus = {
 	id = NSSR_the_road_ahead
-	icon = GFX_focus_unknown
+	icon = GFX_the_road_ahead
 
 	cost = 3
 	x = 0
