@@ -56,13 +56,13 @@ set_popularities = {
 	constitutional_monarchy = 0
 	neutrality = 0
 	despotism = 0
-	anarchism = 100
+	anarchy = 100
 }
 
 
 set_politics = {
 
-	ruling_party = anarchism
+	ruling_party = anarchy
 	last_election = "1000.10.10"
 	election_frequency = 36
 	elections_allowed = no

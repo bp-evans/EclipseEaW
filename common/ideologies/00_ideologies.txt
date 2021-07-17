@@ -485,7 +485,7 @@ ideologies = {
 		ai_fascist = yes
 	}
 
-	anarchism = {
+	anarchy = {
 		
 		types = {
 		}
