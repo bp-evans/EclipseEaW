@@ -55,4 +55,9 @@ spriteTypes = {
 		texturefile = "gfx/interface/goals/EEaW/STG/goal_solidarity_forever.dds"
 	}	
 	
+	SpriteType = {
+		name = "GFX_crimson_skies"
+		texturefile = "gfx/interface/goals/EEaW/STG/goal_crimson_skies.dds"
+	}
+	
 }

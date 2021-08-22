@@ -296,7 +296,7 @@ shared_focus = {
 
 shared_focus = {
 	id = NSSR_crimson_skies
-	icon = GFX_focus_unknown
+	icon = GFX_crimson_skies
 
 	cost = 4
 	x = -1
