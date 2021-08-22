@@ -175,7 +175,7 @@ shared_focus = {
 
 shared_focus = {
 	id = NSSR_solidarity_forever
-	icon = GFX_focus_unknown
+	icon = GFX_solidarity_forever
 
 	cost = 3
 	x = 0

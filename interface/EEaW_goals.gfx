@@ -49,4 +49,10 @@ spriteTypes = {
 		name = "GFX_the_road_ahead"
 		texturefile = "gfx/interface/goals/EEaW/STG/goal_the_road_ahead.dds"
 	}
+	
+	SpriteType = {
+		name = "GFX_solidarity_forever"
+		texturefile = "gfx/interface/goals/EEaW/STG/goal_solidarity_forever.dds"
+	}	
+	
 }
