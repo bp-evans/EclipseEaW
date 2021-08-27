@@ -99,6 +99,13 @@ guiTypes = {
 			spriteType = "GFX_small_flag_frame_thin"
 			position = { x= 4 y = 4 }
 			alwaystransparent = yes
+		}
+		iconType = {
+			name = "diplo_country_flag_overlay"
+			spriteType = "GFX_shield_medium_animated"
+			position = { x = 6 y = 6 }
+			Orientation = "UPPER_LEFT"
+			alwaystransparent = yes
 		}		
 		
 	}
@@ -496,7 +503,6 @@ guiTypes = {
 			quadTextureSprite ="GFX_in_game_menu_dark_overlay"
 		}
 	}
-
 }
 
 default_clicksound = "click_default"

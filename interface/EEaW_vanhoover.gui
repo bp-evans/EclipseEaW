@@ -1,0 +1,15 @@
+guiTypes = {
+
+	containerWindowType = {
+		name = "vanhoover_civil_war_gui"
+		position = { x=0 y=0 }
+		size = { width = 510 height = 486 }		
+		
+		iconType = {
+			name = "vanhoover_borders"
+			position = { x = 27 y = -8 }
+			quadTextureSprite ="GFX_vanhoover_outline"
+			Orientation = "UPPER_LEFT"
+		}
+	}
+}

@@ -1,0 +1,18 @@
+scripted_gui = {
+	vanhoover_civil_war_gui = {
+		context_type = decision_category		
+		window_name = "vanhoover_civil_war_gui"
+		
+		visible = {
+            tag = VAN
+		}
+		
+		effects = {
+		}
+        triggers = {
+            vanhoover_borders_visble = {
+                always = yes
+            }
+        }
+	}
+}
