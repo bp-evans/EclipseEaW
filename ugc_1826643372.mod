@@ -1,4 +1,4 @@
-name="Eclipse: Harmony's Trial"
+name="Equestria at War"
 replace_path="common/ai_equipment"
 replace_path="common/ai_focuses"
 replace_path="common/ai_peace"
@@ -33,4 +33,5 @@ tags={
 	"Map"
 }
 supported_version="1.10.*"
-path="C:/Users/tonka/OneDrive/Documentos/Paradox Interactive/Hearts of Iron IV/mod/EclipseEaW"
+path="D:/Program Files (x86)/Steam/steamapps/workshop/content/394360/1826643372"
+remote_file_id="1826643372"
